@@ -4,7 +4,7 @@
 
 Mobile health is a rapidly growing area of digital health which involves providing health care support, delivery and intervention through mobile technologies such as smart phones, tablets and wearables. Basically, it describes the use of mobile phones and wireless technology in medical care.
 
-![MobileHealth](images/mobile health.png)
+![MobileHealth](images/mobile_health.png)
 
 ## Development of Mobile Health through years:
 
