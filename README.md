@@ -4,13 +4,13 @@
 
 Mobile health is a rapidly growing area of digital health which involves providing health care support, delivery and intervention through mobile technologies such as smart phones, tablets and wearables. Basically, it describes the use of mobile phones and wireless technology in medical care.
 
-![mHealth Forecase](https://www.google.com/url?sa=i&url=https%3A%2F%2F2muchcoffee.com%2Fblog%2Fmobile-health-mhealth-market-analysis-and-forecast%2F&psig=AOvVaw0e0IzLPri8oNHBHehOrarH&ust=1675598053134000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi-2ajn-_wCFQAAAAAdAAAAABAI)
+
 
 ## Development of Mobile Health through years:
 
 Due to rising healthcare costs, m-health has become more and more important. In the past few years, mobile health apps have undergone a significant amount of development and evolution. In the healthcare industry, mobile apps have gained a tremendous traction and a great momentum in the last few years.A mobile health app is nothing short of a necessity given the steadily growing number of individuals utilizing mobile devices. Within the current pandemic, the benefits of virtual care have been realized like never before. It is possible for patient and doctor to communicate without needing to be in the same location. The full conventional treatment pathway can be employed with mobile health solutions. They can be used in the wellness, prevention, diagnostic, therapy or control phase.The advancement of medical technology is frequently accompanied by an increase in costs.
 
-![](RackMultipart20230204-1-sxutr5_html_a174a963f36a202c.jpg)
+![mHealth Forecast](https://2muchcoffee.com/blog/content/images/2020/04/mHealth-market-Forecast.jpg)
 
 ## Advantages of mHealth in medical field:
 
