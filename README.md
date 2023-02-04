@@ -4,7 +4,7 @@
 
 Mobile health is a rapidly growing area of digital health which involves providing health care support, delivery and intervention through mobile technologies such as smart phones, tablets and wearables. Basically, it describes the use of mobile phones and wireless technology in medical care.
 
-![Mobile Health](images/mobile health.png)
+![Mobile Health](images/mobile_health.png)
 
 ## Development of Mobile Health through years:
 
@@ -24,9 +24,7 @@ The addition of remote monitoring and counseling can also lead to more effective
 
 One of the newest and most popular trends in healthcare is medical is the chatbots.Even though, this technology is designed to aid healthcare professionals, including it in mobile health apps can increase its effectivity for everyone, including patients. Through medical chatbots, patients can be reminded to take medicines. They can even make drug references to help patients with specific drugs. In addition, connecting mobile health technology with artificial intelligence can solve several problems. Moreover, AIcan alsoefficiently manage a lot of data rapidly to extract useful ideas that can help in clinical decision-making. Thus, AI-powered mobile health apps can enhance care diagnosis and outcomes because they are much faster, more precise, and less expensive.
 
-![](RackMultipart20230204-1-sxutr5_html_a8c817547a94f3a.jpg)
-
-![](RackMultipart20230204-1-sxutr5_html_dce65eb1b45508f3.jpg)
+![Usage](images/usage.png)
 
 ## Challenges facing mHealth:
 
