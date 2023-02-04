@@ -4,7 +4,7 @@
 
 Mobile health is a rapidly growing area of digital health which involves providing health care support, delivery and intervention through mobile technologies such as smart phones, tablets and wearables. Basically, it describes the use of mobile phones and wireless technology in medical care.
 
-
+![Mobile Health](images/mobile health.png)
 
 ## Development of Mobile Health through years:
 
@@ -16,7 +16,7 @@ Due to rising healthcare costs, m-health has become more and more important. In 
 
 mHealth operates differently since it usually makes use of already-existing technology, such mobile Internet. As a result, mHealth can improve patient care while also significantly reducing healthcare expenditures, especially for the people who are found in rural places. Adding to that,Doctors and healthcare professionals can exchange information about diagnoses and treatments and develop an optimal treatment plan. This could cut down on wasted consultation time, decrease the hassle of missed appointments, and save time.Also, Patients can communicate with their doctor or the appropriate institution as frequently as they like about their health-related parameters,this enables both, more cost-effective personnel planning and cost savings.
 
-![Advantages](Advantages.png)
+![Advantages](images/Advantages.png)
 
 ## Usage of health applications:
 
